@@ -1,15 +1,3 @@
-/*       Written By : Saurabh Jain
-                      I Year B.sc (Hons) Computer Science
-					  College Of Vocational Studies
-					  Delhi University
-
-     This Program Will Make Your Curriculam Vitae Within 2 Minutes
-	 And Save Your File With Html Extension i.e I.E File
-	 From Which You Can Print its Text Form.
-
-
-  If Modified Please Send To : sid_isin@yahoo.com
-*/
 
 
 
