@@ -1,10 +1,4 @@
-// ЙННННННННННННННННННННННННННННННННННННННННННННННННННННННННННННН»
-// є  ЫЫЫЫЫЫ  ЫЫЫЫЫЫ  ЫЫЫЫ  ЫЫЫЫЫЫ   ЫЫЫЫ  ЫЫЫЫЫЫ ЫЫЫЫЫЫ  ЫЫЫЫ   є
-// є   ЫЫ  ЫЫ ЫЫ     ЫЫ  ЫЫ  ЫЫ  ЫЫ ЫЫ  ЫЫ   ЫЫ     ЫЫ   ЫЫ  ЫЫ  є
-// є   ЫЫ  ЫЫ ЫЫЫЫ   ЫЫ  ЫЫ  ЫЫ  ЫЫ ЫЫ  ЫЫ   ЫЫ     ЫЫ   ЫЫ  ЫЫ  є
-// є   ЫЫ  ЫЫ ЫЫ     ЫЫ  ЫЫ  ЫЫ  ЫЫ ЫЫЫЫЫЫ   ЫЫ     ЫЫ   ЫЫЫЫЫЫ  є
-// є  ЫЫЫЫЫЫ  ЫЫЫЫЫЫ  ЫЫЫЫ  ЫЫЫЫЫЫ  ЫЫ  ЫЫ   ЫЫ     ЫЫ   ЫЫ  ЫЫ  єthe Author.
-// ИНННННННННННННННННННННННННННННННННННННННННННННННННННННННННННННј
+ГЌГЌГЌГЌГЌГЌГЌВј
 
 #include<conio.h>				//To detect keyboard press
 #include<graphics.h>				//Basic drawing operations
@@ -220,17 +214,17 @@ void GoodBye (void)
 	for (i = 0;i < 3;i ++)
 	{
 		clrscr ();
-		gotoxy (5, 10);cprintf ("A CLOCK PROGRAM BY DEODATTA JAGTAP: ");
+		gotoxy (5, 10);cprintf ("A CLOCK PROGRAM: ");
 		delay (100);
-		gotoxy (5, 15);cprintf ("ЫЫЫЫЫ   ЫЫЫЫЫЫ   ЫЫЫЫ   ЫЫЫЫЫ   ЫЫ  ЫЫ    ЫЫ      ЫЫ    ЫЫ  ЫЫ ");
+		gotoxy (5, 15);cprintf ("Г›Г›Г›Г›Г›   Г›Г›Г›Г›Г›Г›   Г›Г›Г›Г›   Г›Г›Г›Г›Г›   Г›Г›  Г›Г›    Г›Г›      Г›Г›    Г›Г›  Г›Г› ");
 		delay (100);
-		gotoxy (5, 11);cprintf ("ЫЫЫЫЫ   ЫЫЫЫЫЫ   ЫЫЫЫ   ЫЫЫЫЫ    ЫЫЫЫ   ЫЫЫЫЫЫ  ЫЫЫЫЫЫ   ЫЫЫЫ ");
+		gotoxy (5, 11);cprintf ("Г›Г›Г›Г›Г›   Г›Г›Г›Г›Г›Г›   Г›Г›Г›Г›   Г›Г›Г›Г›Г›    Г›Г›Г›Г›   Г›Г›Г›Г›Г›Г›  Г›Г›Г›Г›Г›Г›   Г›Г›Г›Г› ");
 		delay (100);
-		gotoxy (5, 14);cprintf ("ЫЫ  ЫЫ  ЫЫ      ЫЫ  ЫЫ  ЫЫ  ЫЫ  ЫЫЫЫЫЫ    ЫЫ      ЫЫ    ЫЫЫЫЫЫ ");
+		gotoxy (5, 14);cprintf ("Г›Г›  Г›Г›  Г›Г›      Г›Г›  Г›Г›  Г›Г›  Г›Г›  Г›Г›Г›Г›Г›Г›    Г›Г›      Г›Г›    Г›Г›Г›Г›Г›Г› ");
 		delay (100);
-		gotoxy (5, 12);cprintf ("ЫЫ  ЫЫ  ЫЫ      ЫЫ  ЫЫ  ЫЫ  ЫЫ  ЫЫ  ЫЫ    ЫЫ      ЫЫ    ЫЫ  ЫЫ ");
+		gotoxy (5, 12);cprintf ("Г›Г›  Г›Г›  Г›Г›      Г›Г›  Г›Г›  Г›Г›  Г›Г›  Г›Г›  Г›Г›    Г›Г›      Г›Г›    Г›Г›  Г›Г› ");
 		delay (100);
-		gotoxy (5, 13);cprintf ("ЫЫ  ЫЫ  ЫЫЫЫ    ЫЫ  ЫЫ  ЫЫ  ЫЫ  ЫЫ  ЫЫ    ЫЫ      ЫЫ    ЫЫ  ЫЫ ");
+		gotoxy (5, 13);cprintf ("Г›Г›  Г›Г›  Г›Г›Г›Г›    Г›Г›  Г›Г›  Г›Г›  Г›Г›  Г›Г›  Г›Г›    Г›Г›      Г›Г›    Г›Г›  Г›Г› ");
 		delay (900);
        }
 
@@ -240,7 +234,7 @@ void GoodBye (void)
 	for (i = 0;i < 80;i ++)
 	{
 		gotoxy (wherex(),21);
-		cprintf ("Ы");
+		cprintf ("Г›");
 		delay (50);
 	}
 	textcolor(RED);
@@ -269,7 +263,7 @@ void GoodBye (void)
 	gotoxy (5, 6);
 	cprintf ("Mail me at  <");
 	textcolor (WHITE);
-	cprintf (" DeodattaJagtap900@msn.com ");
+	cprintf (" adityamgopi@gmail.com");
 	textcolor (LIGHTCYAN);
 	cprintf (" >                  ");
 	gotoxy (5, 20);
